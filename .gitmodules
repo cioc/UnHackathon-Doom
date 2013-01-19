@@ -1,0 +1,3 @@
+[submodule "PyTinyImage"]
+	path = PyTinyImage
+	url = https://github.com/cioc/PyTinyImage
